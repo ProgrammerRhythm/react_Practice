@@ -6,6 +6,10 @@ function App() {
       <header className="App-header">
        <p>My name is Rhtyhm</p>
        <Call></Call>
+       <Call></Call>
+      <Call></Call>
+      <Call></Call>
+      <Call></Call>
       <Product name="Photoshop" price="$99.99"></Product>
       <Product name="Photoshop" price="$99.99"></Product>
       <Product name="Photoshop" price="$99.99"></Product>
